@@ -1,8 +1,12 @@
-Chat que ao entrar, se encontra uma tela de login, onde o nome inserido será o que aparecerá para os demais usuários na conversa, nomes estes que sempre tem cor diversas para que fique maior a compreenção de que existem diferentes pessoas conversando. O chat foi construido em HTML, CSS, JavaScript e o back em NodeJs, tudo feito localmente e hospedado do vercel(plataforma de hospedagem gratuita). Imagens de demonstração do site em funcionamento na aba de Issues, ou acesse o link e teste você mesmo :)         
+Este é um projeto de chat em tempo real. Ao acessar o site, você encontrará uma tela de login, onde o nome inserido será exibido para os demais usuários na conversa. Para facilitar a identificação, cada participante recebe uma cor diferente, tornando mais clara a distinção entre os interlocutores.
 
-=>  https://pedrogualberto1203.github.io/Chat_online/
+O chat foi desenvolvido utilizando HTML, CSS e JavaScript no frontend, enquanto o backend foi construído com Node.js. Todo o sistema funciona localmente e está hospedado gratuitamente no próprio github.
 
-Se não tiver alguem para conversar, abra duas abas, faça dois logins e teste, pois para o site ficar mais leve, ele não salva as menssagens, ou seja, as pessoas para verem as menssagens precisam estar conectadas ao mesmo tempo.
+Você pode testar o site por meio do link abaixo:
+
+🔗 https://pedrogualberto1203.github.io/Chat_online/
+
+Caso não haja ninguém online no momento, você pode abrir duas abas(ou mais), fazer login com os nome que quiser e testar a interação. Como o chat não armazena mensagens, elas só são visíveis enquanto os usuários estão conectados simultaneamente.
 
 Aba de login:
 ![Chat_login](https://github.com/user-attachments/assets/c8202e34-b84b-4049-92a1-a6982a173c96)
